@@ -1,7 +1,7 @@
-## [OneShot](https://github.com/drygdryg/OneShot) installer for [Termux](https://termux.com/)
+## [OneShot](https://github.com/acastillorobles77/OneShot) installer for [Termux](https://termux.com/)
 ### Setup
 ```
-curl -sSf https://raw.githubusercontent.com/drygdryg/OneShot_Termux_installer/master/installer.sh | bash
+curl -sSf https://raw.githubusercontent.com/acastillorobles77/OneShot_Termux_installer/master/installer.sh | bash
 ```
 ### Run
 Disable Wi-Fi in the system settings and run:
